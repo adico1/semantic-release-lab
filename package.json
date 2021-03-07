@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repositoryUrl": "git@github.com:adico1/semantic-release-lab.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
